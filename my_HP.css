@@ -1,5 +1,6 @@
 html{
-    background-color: orange;
+    background-image: url(夢鯖絵文字.png);
+    background-size: auto;
 }
 #title{
     color: blue;
@@ -7,7 +8,7 @@ html{
     font-size: 50px;
 }
 #subtitle{
-    color: blueviolet;
+    color: rgb(226, 43, 134);
     text-align: center;
     font-size: 35px;
 }
@@ -16,6 +17,9 @@ html{
 }
 #bye{
     color: green;
+}
+#god{
+    color: cadetblue;
 }
 /*ここから先class*/
 .go{
@@ -35,10 +39,16 @@ html{
 .text{
     font-size: 35px;
     text-align: center;
+    color: red;
+}
+.text_1{
+    font-size: 35px;
+    text-align: center;
+    color: blue;
 }
 .info{
     font: italic;
     font-size: 25px;
     text-align: center;
-    text-decoration: black;
+    text-decoration: white;
 }
