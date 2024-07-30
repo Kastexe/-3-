@@ -9,3 +9,8 @@ $("#hima").on("click",function(){
     alert("ひまやなぁ....せや!こことかどうや？(タブ開くで)")
     window.open("https://x.com","_blank")
 });
+//神様参拝ボタン
+$("#god").on("click",function(){
+    alert("おっ(^ω^)いいことだ☆")
+    window.open("https://twitter.com/Yumely21")
+});
